@@ -66,6 +66,7 @@ public class Kadai2 extends HttpServlet {
 		out.println("<table border=\"1\" style=\"width:400\">");
 		out.println("<table align=\"right\">");
 		out.println("<tr bgcolor=\"blue\">");
+		//新規登録ボタンでページ移動
 		out.println("<th><a href=kadai2.jsp class=btn>新規登録</th>");
 		out.println("</tr>");
 		out.println("</table>");
